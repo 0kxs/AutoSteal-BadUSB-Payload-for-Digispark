@@ -131,3 +131,6 @@ The sketch is optimized to stay well within the ATtiny85's limited memory.
 ## Legal Disclaimer
 
 This software is provided for educational purposes only. The author is not responsible for any illegal or unauthorized use. Respect applicable laws and only use this code on systems you own or have explicit permission to test.
+
+Dev Notes : 
+*Don't be an idiot, don't download Built.exe*
