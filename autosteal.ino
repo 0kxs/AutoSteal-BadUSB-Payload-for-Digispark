@@ -1,4 +1,6 @@
+// Made with <3 by 942
 // Light Version for AZERTY Keyboard
+// Very simple c++ ,  you can upgrade it.
 
 #include <avr/pgmspace.h>
 #include "DigiKeyboardFr.h"
